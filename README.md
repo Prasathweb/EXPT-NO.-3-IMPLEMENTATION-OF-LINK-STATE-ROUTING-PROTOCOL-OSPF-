@@ -20,4 +20,11 @@ STEP 8: Configure OSPF in Delhi router, Save configuration and restart Delhi rou
 STEP 9: Configure OSPF in Chennai router, Save configuration and restart Chennai router.
 STEP 10: Verify the connectivity between PC Terminals in different networks using Ping command.
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
-<img width="468" height="371" alt="image" src="https://github.com/user-attachments/assets/6be6a345-4147-4fcd-bc44-fea2b7e6de99" />
+
+# OUTPUT
+
+
+
+# RESULT:
+Thus the computers in multiple networks using Open Shortest Path First Routing Protocol is connected and the connectivity between the computers is verified.
+
